@@ -4,5 +4,6 @@ This is my first repo
 Author: DEEPAK GUPTA
 <br>
 i have made this project <br>
-i am currently lreaing hw to use git
+i am currently lreaing hw to use git<br>
 I DAILY UPDATE IT 
+day 6<br>
