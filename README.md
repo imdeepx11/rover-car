@@ -7,3 +7,4 @@ i have made this project <br>
 i am currently lreaing hw to use git<br>
 I DAILY UPDATE IT 
 day 6<br>
+this is the update of day 7
